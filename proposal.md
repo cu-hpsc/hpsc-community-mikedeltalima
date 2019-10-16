@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *Dask*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Dask is a software package that extends popular data libraries in Python such as numpy, pandas, and scikit-learn to allow scalable parallel computation. Dask uses dynamic task scheduling to allow execution on these extended data collections in distributed environments. This means that tasks are scheduled according to a task graph dynamically created by the scheduler as requests for computation arrive.
 
 ### Stats
 
