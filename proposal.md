@@ -1,5 +1,4 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
 ## Software: *Dask*
 
@@ -9,20 +8,20 @@ Dask is a software package that extends popular data libraries in Python such as
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2018-10-07` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/dask/dask |
+| Main/documentation website | https://docs.dask.org/ |
+| Year project was started | 2015 |
+| Number of contributors in the past year | 150 |
+| Number of contributors in the lifetime of the project | 341 |
+| Number of distinct affiliations | 5-10 |
+| Where do development discussions take place? | https://gitter.im/dask/dev, Github, monthly meeting |
+| Typical number of emails/comments per week? | 5 github issues |
+| Typical number of commits per week? | 10-20 commits |
+| Typical commit size | 1-5 files changed, some changes much larger |
+| How does the project accept contributions? | yes |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
