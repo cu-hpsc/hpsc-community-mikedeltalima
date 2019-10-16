@@ -28,10 +28,13 @@ Dask is a software package that extends popular data libraries in Python such as
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
+- [x] I have installed the software
+- [x] I have run at least one example
+- [x] I have run the test suite
 - [ ] The test suite passes
+
+`====== 3 failed, 5955 passed, 640 skipped, 27 xfailed, 2 xpassed in 591.10 seconds =======`
+
 
 ### Notes/concerns/risks
 
